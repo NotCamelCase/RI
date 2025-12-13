@@ -1,0 +1,17 @@
+/.vscode
+/.vs
+/win
+/macosx
+/linux
+/vs
+/vs
+/mingw
+/build
+/xcode
+/bin
+/web
+/.history
+.gradle
+.idea
+.cxx
+build

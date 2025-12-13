@@ -1,0 +1,6 @@
+[submodule "deps/minifb"]
+	path = deps/minifb
+	url = https://github.com/emoon/minifb.git
+[submodule "deps/stb"]
+	path = deps/stb
+	url = https://github.com/nothings/stb
